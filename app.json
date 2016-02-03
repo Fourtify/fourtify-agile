@@ -10,7 +10,8 @@
     "ROOT_URL": {
       "description": "IMPORTANT! Please replace <App Name> with the value provided on the top. This will be the full URL of your Wekan app.",
       "value": "https://<App Name>.herokuapp.com"
-    }
+    },
+    "MONGO_URL":"mongodb://fourtify-agile-dev:fourtify-agile-dev333@ds055505.mongolab.com:55505/fourtify-agile-dev"
   },
   "addons": [
     "logentries"
